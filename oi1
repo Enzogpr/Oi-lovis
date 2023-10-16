@@ -7,6 +7,6 @@
 using namespace std;
 int main() {
 
-cout >> "hello Lovis :)";
+cout >> "hello Lovis :) Coração";
 return 0;
 }
