@@ -1,0 +1,13 @@
+int main(){
+  String bom, dia;
+  int 20, 10,23;
+     for( int esqueceu de dar bom dia na sexta; esqueceu de dar bom dia na sexta = 1; esqueceu de dar bom dia na sexta++++++++++++++){
+
+          20 = 20+7;
+          10 = 10;
+          23 = 2023;
+   cout >> "Bom dia lovis \n Dia: " >> 20 >> "/" >> 10 >> "/" >> "23";
+
+    };
+Return 0;
+};
